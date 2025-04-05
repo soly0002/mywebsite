@@ -1,0 +1,25 @@
+/* decided to keep same layout as literature.css to maintain flow/cohesion */
+
+header {font-family: Tempting;
+    font size: 30px; 
+    background: #151413;
+    color: #d1b498;
+    padding: 10px;
+    text-align: center;
+}
+
+header 2 {font-family: Tempting;
+    font size: 30px; 
+    background: #151413;
+    color: #d1b498;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    font-family: Times New Roman, sans serif;
+    list-style: none;
+    padding: 0;
+    
+}
+

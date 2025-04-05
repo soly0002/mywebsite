@@ -1,0 +1,77 @@
+
+ 
+body {
+    font-family: Times New Roman, sans serif;
+    line-height: 1.0;
+    margin: 0;
+    padding: 0;
+    background-color: #676059;
+}
+
+/* Had some issues with the headers. When tried to re-order/delete/edit certain headers the top 'banner' would change */
+
+header {font-family: Tempting;
+    font size: 30px; 
+    background: #151413;
+    color: #d1b498;
+    padding: 10px;
+    text-align: center;
+}
+
+decorative-separator {
+  border-top: 1px dashed #999;
+  margin: 20px 0;
+}
+
+h2 {font-family: Tempting;
+    font size: 30px; 
+    background: #151413;
+    color: #d1b498;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+h3 {font-family: Tempting;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    font-family: Times New Roman, sans serif;
+    list-style: none;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin: 15px;   
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;    
+}
+
+main {
+    padding: 0px;
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    border-radius: 8px;
+
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #d1b498;
+text-align: center;
+}
+
+
+
